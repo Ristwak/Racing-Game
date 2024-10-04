@@ -1,15 +1,16 @@
-#racing-Game
+# RacingGame
+
 This project is an exhilarating car racing game developed in Unity. The game showcases a vibrant world filled with meticulously designed tracks, dynamic environments, and thrilling gameplay mechanics to provide players with an engaging racing experience.
 The aim was to deliver a visually stunning and action-packed adventure through effective level design and responsive controls.
 
-#Features
+# Features
 
 Dynamic Tracks: A variety of intricately designed racing tracks that challenge players and keep the excitement high.
 Responsive Controls: Intuitive handling that allows players to navigate through turns and obstacles with ease.
 Sound Design: An immersive audio experience featuring engine sounds, tire screeches, and an adrenaline-pumping soundtrack.
 Eye-Catching Environments: Stunning visuals that enhance gameplay and provide a captivating backdrop for each race.
 
-#Development Tools
+# DevelopmentTools
 
 Engine: Unity
 Languages: C#, UnityScript
